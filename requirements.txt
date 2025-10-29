@@ -16,7 +16,7 @@ filelock==3.18.0
 fqdn==1.5.1
 frozenlist==1.7.0
 fsspec==2025.5.1
--e git+https://github.com/JaswanthReddy5/gibberish_text.git@6b75afd26344330434b1f898acef25c808096a05#egg=gibberish_text
+https://github.com/JaswanthReddy5/samsung/blob/main/requirements.txt
 googleapis-common-protos==1.70.0
 griffe==0.36.9
 grpcio==1.73.1
